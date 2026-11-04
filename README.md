@@ -12,7 +12,6 @@ We build Temp.IA inside aFill, where I have also spent four years customizing th
 
 **Stack:** TypeScript, React, Next.js, Node.js (Fastify), PostgreSQL / Supabase, OpenAI and Anthropic APIs, WhatsApp Cloud API, Vercel, Railway, Cloudflare.
 
-The product repositories are private. I'm happy to walk through the code in an interview.
+The product repositories are private.
 
-**Looking for developer roles in Spain**, on-site, hybrid or remote.
-[ruanvitorino.vercel.app](https://ruanvitorino.vercel.app) · ruanrvitorino@gmail.com
+ruanrvitorino@gmail.com
