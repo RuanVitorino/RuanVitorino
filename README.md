@@ -8,7 +8,7 @@ I'm a full-stack engineer and a co-founder of **Temp.IA** in Brazil. Our SaaS pr
 - **Tempia Whats**: WhatsApp Cloud API connector with Meta Embedded Signup, shared inbox and signed webhooks. Passed Meta App Review in July 2026.
 - **HospedIA**: SaaS for small accommodation businesses.
 
-We build Temp.IA inside aFill, where I have also spent four years customizing the TOTVS Protheus ERP in ADVPL. I'm studying Software Engineering at UniCesumar.
+I have also spent four years at aFill, which builds a foreign-trade add-on for the TOTVS Protheus ERP, where I develop in ADVPL. I'm studying Software Engineering at UniCesumar.
 
 **Stack:** TypeScript, React, Next.js, Node.js (Fastify), PostgreSQL / Supabase, OpenAI and Anthropic APIs, WhatsApp Cloud API, Vercel, Railway, Cloudflare.
 
